@@ -34,15 +34,16 @@ I can help people who are in difficulty and put people at ease.
 ### A funny story
 For a friend's birthday, I put the whole cake on his face.
 
-Tell a short funny story about your lif.
+### Tell a short funny story about your life.
+
 
 TL;DR (even smaller header, under funny story)
 
-Summarise your funny story in one short sentence.
+### Summarise your funny story in one short sentence.
 
 ! IMPORTANT -> At the bottom of the page there should be a next and previous link, this should link to the page of the previous student (alphabetically) and the next one.
 Organise yourself so it is easy to know who you should link to.
 
 The links should have the following structure:
 
-<< previous || YOUR NAME || next >>
+<< [Texte d’affichage du lien](http://www.sampleurl.com) || FIROUZFAR SEBASTIEN || [Texte d’affichage du lien](http://www.sampleurl.com) >>
