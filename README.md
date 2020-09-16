@@ -25,14 +25,15 @@ Hobbies
     1. Action
     2. Commedie
 
+### You can always count on me when...
 ###### La personne peut compter sur moi quand il y'a quelque chose qui ne va pas.
 
-Je peux apporter mes aides aux personnes qui sont en difficulté et mettre à l'aise les personnes.
+I can help people who are in difficulty and put people at ease.
 
 
 ###### pour l'anniversaire d'un amis je lui est mis le gateaux entier sur son visage.
 
-Tell a short funny story about your life.
+Tell a short funny story about your lif.
 
 TL;DR (even smaller header, under funny story)
 
