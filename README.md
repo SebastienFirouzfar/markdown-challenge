@@ -1,6 +1,6 @@
 SEBASTIEN FIROUZFAR 
 ======================================
- *wolves don't eat each other *
+ *wolves don't eat each other*
 
 ![IMG_2482](https://user-images.githubusercontent.com/47642733/93339070-71844f00-f82b-11ea-89f3-d01dce4fc0c2.jpg)
 
