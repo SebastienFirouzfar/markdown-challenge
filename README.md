@@ -26,13 +26,13 @@ Hobbies
     2. Commedie
 
 ### You can always count on me when...
-###### La personne peut compter sur moi quand il y'a quelque chose qui ne va pas.
+###### The person can count on me when something goes wrong.
 
 ### Tell your teammates which positive contribution to the group you will make.
 I can help people who are in difficulty and put people at ease.
 
-
-###### pour l'anniversaire d'un amis je lui est mis le gateaux entier sur son visage.
+### A funny story
+###### for a friend's birthday, I put the whole cake on his face.
 
 Tell a short funny story about your lif.
 
