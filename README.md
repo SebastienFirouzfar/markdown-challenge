@@ -5,11 +5,12 @@ An inspirational quote in *italics*
 ![IMG_2482](https://user-images.githubusercontent.com/47642733/93339070-71844f00-f82b-11ea-89f3-d01dce4fc0c2.jpg)
 
 ###### "je suis quelqu'un qui est un peu timide" (as a smaller header)
-
-Birthday: 25/07/1993 <br>
-Favorite color: noir en blanc <br>
-Favorite food: sushi <br>
-Pinneapple on pizza:  [x]Yes  [x]No (Extra challenge: make it look like a (un)checked checkbox) <br>
+|   |   |
+|:----------------- |:--------------------|
+|Birthday | 25/07/1993| 
+|Favorite color |  noir en blanc| 
+|Favorite| food: sushi |
+|Pinneapple on pizza |  [x]Yes  [x]No |
 
 #Hobbies
 ==================
