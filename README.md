@@ -23,14 +23,14 @@ Hobbies
 3. Voyager 
 4. Film 
     1. Action
+    2. Commedie
 
 ###### La personne peut compter sur moi quand il y'a quelque chose qui ne va pas.
 
-Tell your teammates which positive contribution to the group you will make.
-This could be technical, making people feel comfortable, being an organiser...
+Je peux apporter mes aides aux personnes qui sont en difficulté et mettre à l'aise les personnes.
 
 
-A funny story (smaller header)
+###### pour l'anniversaire d'un amis je lui est mis le gateaux entier sur son visage.
 
 Tell a short funny story about your life.
 
