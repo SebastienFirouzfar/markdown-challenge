@@ -12,7 +12,7 @@ An inspirational quote in *italics*
 |Favorite| food: sushi |
 |Pinneapple on pizza |  [x]Yes  [x]No |
 
-#Hobbies
+Hobbies
 ==================
 
 1. Sport
