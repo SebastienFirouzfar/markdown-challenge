@@ -46,4 +46,4 @@ Organise yourself so it is easy to know who you should link to.
 
 The links should have the following structure:
 
-<< [Texte d’affichage du lien](http://www.sampleurl.com) || FIROUZFAR SEBASTIEN || [Texte d’affichage du lien](http://www.sampleurl.com) >>
+<< [Personne précédent](http://www.sampleurl.com) || FIROUZFAR SEBASTIEN || [Personne Suivant](http://www.sampleurl.com) >>
