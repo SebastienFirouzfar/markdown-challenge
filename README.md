@@ -23,7 +23,7 @@ Pinneapple on pizza:  [x]Yes  [x]No (Extra challenge: make it look like a (un)ch
 4. Film 
     1. Action
 
-###### You can always count on me when... (smaller header)
+###### La personne peut compter sur moi quand il y'a quelque chose qui ne va pas.
 
 Tell your teammates which positive contribution to the group you will make.
 This could be technical, making people feel comfortable, being an organiser...
