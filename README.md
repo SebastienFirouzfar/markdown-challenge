@@ -6,13 +6,13 @@ An inspirational quote in *italics*
 
 ###### "je suis quelqu'un qui est un peu timide" (as a smaller header)
 
-A table with the following structure:
-Birthday: 25/07/1993
-Favorite color: noir en blanc
-Favorite food: sushi
-Pinneapple on pizza:  [x]Yes  [x]No (Extra challenge: make it look like a (un)checked checkbox)
+Birthday: 25/07/1993 <br>
+Favorite color: noir en blanc <br>
+Favorite food: sushi <br>
+Pinneapple on pizza:  [x]Yes  [x]No (Extra challenge: make it look like a (un)checked checkbox) <br>
 
 #Hobbies
+==================
 
 1. Sport
     1. Football americain
