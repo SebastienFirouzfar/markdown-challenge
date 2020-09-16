@@ -4,7 +4,7 @@ An inspirational quote in *italics*
 
 ![IMG_2482](https://user-images.githubusercontent.com/47642733/93339070-71844f00-f82b-11ea-89f3-d01dce4fc0c2.jpg)
 
-###### "je suis quelqu'un qui est un peu timide" (as a smaller header)
+###### I am someone who is a little shy
 |   |   |
 |:----------------- |:--------------------|
 |Birthday | 25/07/1993| 
@@ -28,6 +28,7 @@ Hobbies
 ### You can always count on me when...
 ###### La personne peut compter sur moi quand il y'a quelque chose qui ne va pas.
 
+### Tell your teammates which positive contribution to the group you will make.
 I can help people who are in difficulty and put people at ease.
 
 
