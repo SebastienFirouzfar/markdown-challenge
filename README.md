@@ -9,7 +9,7 @@ SEBASTIEN FIROUZFAR
 |:----------------- |:--------------------|
 |Birthday | 25/07/1993| 
 |Favorite color |  noir en blanc| 
-|Favorite| food: sushi |
+|Favorite food:|  sushi |
 |Pinneapple on pizza |  [x]Yes  [x]No |
 
 Hobbies
